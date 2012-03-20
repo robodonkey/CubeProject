@@ -1,0 +1,10 @@
+Cube Project
+
+Design a 24x24x24 RGB LED Cube
+
+More documentation can be found at:
+http://www.wix.com/rcarmain/portfolio#!projects
+http://uatrobotics.blogspot.com        <-Look for any posts regarding the cube project
+
+Point where the project is at right now:
+Breadboard line appears to light up fine at 5 LEDs, but has a visible delay at 24 LEDs on. We are not sure why this is happening, but we are figuring out ways to debug this program.
